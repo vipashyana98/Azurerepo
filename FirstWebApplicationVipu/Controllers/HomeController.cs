@@ -15,7 +15,7 @@ namespace FirstWebApplicationVipu.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Vipashyanas page.";
+            ViewBag.Message = "Vipashyanas hello man page.";
 
             return View();
         }
